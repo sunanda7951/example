@@ -219,7 +219,7 @@
                 <plugin>
                     <groupId>com.sap.cloud.s4hana.plugins</groupId>
                     <artifactId>scp-neo-maven-plugin</artifactId>
-                    <version>1.5.1-SNAPSHOT</version>
+                    <version>1.4.0-SNAPSHOT</version>
                     <configuration>
                         <sdkPlugin>neo-javaee6-wp-maven-plugin</sdkPlugin>
                         <sdkPluginVersion>${scp.sdkVersion}</sdkPluginVersion>
